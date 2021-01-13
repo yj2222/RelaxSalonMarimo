@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* Reset
+------------------------------- */
+body{
+  background: #fff;
+}
+/* header
+------------------------------- */
+h1 img{
+  width: 100px;
+}
